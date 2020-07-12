@@ -1,6 +1,6 @@
 {
   "name": "react-native-checkbox-lite",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A liteweight checkbox component for react native. It works on Android, iOS and Expo web.",
   "main": "index.js",
   "scripts": {
